@@ -10,21 +10,40 @@ public class Money {
 	private int amount;
 	
 	public Money(int amount) {
+	
+	this.amount = amount;
+		
+	
 	}
 
 	public Money add(Money money) {
-		return null;
+		
+
+		
+	
+		
+	return money;
+	
 	}
 
 	public Money minus(Money money) {
-		return null;
+		
+	
+		
+		return money;
 	}
 
 	public Money multiply(Money money) {
-		return null;
+		
+	
+		
+		return money;
 	}
 
 	public Money devide(Money money) {
-		return null;
+		
+	
+		
+		return money;
 	}
 }
